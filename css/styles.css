@@ -1,4 +1,5 @@
 * {
+	cursor: url("../img/pigeoncurs.png"), auto;
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
@@ -71,4 +72,3 @@ body {
 	border: 3px solid white;
 	border-radius: 7px;
 }
-

@@ -7,7 +7,7 @@ let firstCard, secondCard;
 function flipCard() {
     if (lockBoard) return;
     if (this === firstCard) return;
-    
+
     this.classList.toggle("flip");
     if (!hasFlippedCard) {
         //first click by play
